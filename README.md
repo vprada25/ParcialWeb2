@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\victorp\Desktop\parcial2web\src\parcialweb2-946df-firebase-adminsdk-nkgmg-4ce613b19d.json"
